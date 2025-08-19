@@ -1,0 +1,4 @@
+[environments.dev]
+theme = 177537417496
+store = "mnwdd"
+ignore = ['config/settings_data.json', 'templates/*.json', 'templates/*/*.json', 'locales/*.json', "sections/*.json"]
